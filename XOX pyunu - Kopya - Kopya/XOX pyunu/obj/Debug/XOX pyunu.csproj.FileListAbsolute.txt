@@ -1,0 +1,9 @@
+C:\Users\pisli\source\repos\XOX pyunu\XOX pyunu\bin\Debug\XOX pyunu.exe.config
+C:\Users\pisli\source\repos\XOX pyunu\XOX pyunu\bin\Debug\XOX pyunu.exe
+C:\Users\pisli\source\repos\XOX pyunu\XOX pyunu\bin\Debug\XOX pyunu.pdb
+C:\Users\pisli\source\repos\XOX pyunu\XOX pyunu\obj\Debug\XOX pyunu.csprojAssemblyReference.cache
+C:\Users\pisli\source\repos\XOX pyunu\XOX pyunu\obj\Debug\XOX_pyunu.Form1.resources
+C:\Users\pisli\source\repos\XOX pyunu\XOX pyunu\obj\Debug\XOX_pyunu.Properties.Resources.resources
+C:\Users\pisli\source\repos\XOX pyunu\XOX pyunu\obj\Debug\XOX pyunu.csproj.GenerateResource.cache
+C:\Users\pisli\source\repos\XOX pyunu\XOX pyunu\obj\Debug\XOX pyunu.exe
+C:\Users\pisli\source\repos\XOX pyunu\XOX pyunu\obj\Debug\XOX pyunu.pdb
